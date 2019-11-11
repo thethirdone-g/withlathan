@@ -2,7 +2,7 @@
 
 ## Welcome to Lathan's online studio
 
-Through this Github repository, you will get an inside look of Lathan's design process and the architecture for their company's online visual experience.
+Through this Github repository you will get an inside look of Lathan's design process and the architecture for their company's online visual experience.
 
 ### User Research
 
