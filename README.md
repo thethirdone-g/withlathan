@@ -1,10 +1,10 @@
 # Design Documentation : *withLathan*
 
-### Welcome to Lathan's online studio.
+## Welcome to Lathan's online studio
 
-Through this Github repository, users will be able to see the complete design and architecture of this company's online visual experience.
+Through this Github repository, you will get an inside look of Lathan's design process and the architecture for their company's online visual experience.
 
-User Research :
+### User Research
 
 In order to create the **perfect** experience for our users, research has to be conducted. 
 
