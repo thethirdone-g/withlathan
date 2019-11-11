@@ -1,4 +1,4 @@
-# **Design Documentation**
+# Design Documentation : withLathan
 
 ## Welcome to Lathan's online studio.
 
