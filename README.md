@@ -8,5 +8,4 @@ Through this Github repository you will get an inside look of Lathan's design pr
 
 In order to create the **perfect** experience for our users we can't assume we know everything they need. Closed mouths don't get fed so we let the research do the talking. 
 
-_**The Clique**_ at Lathan conducts user research in an effort to understand what our users **want**, what they **need**, and can they **use** what we're going to provide.
-
+_**The Clique**_ at Lathan conducts user research in an effort to understand what our users **want**, what they **need**, and if they can **use** what we're going to provide.
